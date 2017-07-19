@@ -1,0 +1,24 @@
+{
+    "name": "minh/timezones",
+    "description": "Demo pakage to show time",
+    "type": "plugin",
+    "license": "DEMO",
+    "authors": [
+        {
+            "name": "minh",
+            "email": "minh_dev@email.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        
+        "psr-4": {
+          
+            "Minh\\Timezones\\":"src"
+        }
+    }
+
+    
+  }
